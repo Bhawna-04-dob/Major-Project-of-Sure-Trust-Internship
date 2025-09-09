@@ -1,1 +1,2 @@
 # Major-Project-of-Sure-Trust-Internship
+I developed an interactive Loan Portfolio Analytics Dashboard in Power BI to analyze and monitor loan performance. The dashboard tracked key metrics such as $420M loan amount, $482M payments, and 37K+ customers, providing insights into repayment status (fully paid, current, charged-off), loan growth trends, and state-wise distribution. It also compared loan behaviors by home ownership, income, and credit grades, enabling stakeholders to assess credit risk and support data-driven portfolio management.
